@@ -4,13 +4,13 @@ Turning vim shortcuts into verbal coding for hands-free programming
 ## Upcoming
 So I'm looking into training a custom transcription model because out-of-the-box things don't work well on the vim "terminology". I'll have to get some sort of transcribed dataset, but I think that could be done with a keylogger or something perhaps that I give to VIM users. I think, based on an article I found, that using a transfer learning method could work well.
 
-Some resources I've found (I'd like to use PyTorch if possible)
-https://www.quantmetry.com/speech-transcription-why-and-how-to-build-a-custom-model/
-https://github.com/SeanNaren/deepspeech.pytorch
-https://arxiv.org/pdf/1512.02595v1.pdf
-https://github.com/ryanleary/patter
-https://research.mozilla.org/machine-learning/
-https://github.com/mozilla/DeepSpeech
+Some resources I've found (I'd like to use PyTorch if possible):
+* https://www.quantmetry.com/speech-transcription-why-and-how-to-build-a-custom-model/
+* https://github.com/SeanNaren/deepspeech.pytorch
+* https://arxiv.org/pdf/1512.02595v1.pdf
+* https://github.com/ryanleary/patter
+* https://research.mozilla.org/machine-learning/
+* https://github.com/mozilla/DeepSpeech
 
 ## Requirements
 SpeechRecognition python package
